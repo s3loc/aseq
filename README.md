@@ -24,7 +24,7 @@ The **s3loc_ Pentest Framework** is a comprehensive penetration testing toolkit 
 
 
 # Clone the repository
-git clone https://github.com/s3loc_/pentest-framework.git
+git clone https://github.com/s3loc/aseq.git
 cd pentest-framework
 
 # Install dependencies
